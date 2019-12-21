@@ -1,10 +1,10 @@
 # vuecli
 
-> A Vue.js project
+> Gaming Tech
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
