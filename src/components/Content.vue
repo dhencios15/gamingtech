@@ -203,40 +203,7 @@
           <!-- Card Wider -->
         </div>
         <!-- End of Card -->
-        <div class="col-lg-4 col-md-6 mb-4">
-          <!-- Card Wider -->
-          <div class="card card-cascade wider cardContent border border-dark shadow-lg">
-            <!-- Card image -->
-            <div class="view view-cascade overlay view overlay zoom mb-1">
-              <img
-                class="card-img-top pt-5 pl-5 pr-5"
-                src="http://pngimg.com/uploads/macbook/macbook_PNG82.png"
-                alt="Card image cap"
-              />
-            </div>
-
-            <!-- Card content -->
-            <div class="card-body card-body-cascade text-center">
-              <!-- Title -->
-              <h4 class="card-title text-white">
-                <strong>Macbook Pro 13"</strong>
-              </h4>
-              <!-- Subtitle -->
-              <h5 class="blue-text pb-2">
-                <strong class="text-warning">&#8369;50,000</strong>
-              </h5>
-              <!-- Text -->
-              <p
-                class="text-white"
-              >The 13-inch MacBook Pro with Touch Bar (released in August 2019) is still one of the most expensive 13-inch laptops out there. It starts at a steep $1,799 with an 8th-Gen, 2.4-GHz Intel Core i5 processor, 8GB of RAM and 246GB of storage.</p>
-            </div>
-            <a class="btn btn-primary btn-rounded" href>BUY NOW</a>
-          </div>
-
-          <!-- Card Wider -->
-        </div>
-        <!-- End of Card -->
-
+       
       </div>
     </div>
   </div>
